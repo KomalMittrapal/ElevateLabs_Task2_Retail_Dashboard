@@ -1,4 +1,4 @@
-# ElevateLabs_Task2_Retail_Dashboard
+# ElevateLabs_Task3_Retail_Dashboard
 "Interactive Retail Sales Dashboard using Power BI"
 
 # 📊 Data Analyst Internship - Task 3: Retail Sales Dashboard
