@@ -31,6 +31,7 @@ The dashboard reveals several important trends from the 2023 retail sales data:
 | `retail_sales_dataset.csv` | The raw dataset used for analysis. |
 | `Task3_RetailSales_Dashboard.pbix` | The completed, interactive dashboard file. |
 | `ElevateLabs_Task-3_Presentation.pdf` | The PowerPoint summary of findings for stakeholders. |
+| `Retail_dashboard_image.jpeg` | Dashboard Image. |
 | `README.md` | This file, summarizing the project. |
 
 ## 💡 Dashboard Design Elements
